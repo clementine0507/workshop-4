@@ -145,8 +145,6 @@ let emojis = [];
 
 
 
-
-
     let e1, e2, e3, e4;
 
     
@@ -156,8 +154,6 @@ let emojis = [];
     
     
     let checkbox;
-
-
 
 
 
@@ -184,8 +180,6 @@ let emojis = [];
     }
 
     
-    
-
 
 
     function setup() {
@@ -253,8 +247,6 @@ let emojis = [];
 
 
 
-
-
     function draw() {
     
 
@@ -287,9 +279,7 @@ let emojis = [];
           
           image(emojis[i], emojis[i].x, emojis[i].y);
       
-        
-        }
-      
+        }  
       
       }
     
