@@ -284,3 +284,9 @@ let emojis = [];
       }
     
     }
+
+Additional work
+
+![image](https://github.com/user-attachments/assets/a81da01b-361d-4080-9cd5-684149afaf54)
+
+I submited the folder, the name is "workshop4-1".
